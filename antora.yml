@@ -1,0 +1,5 @@
+name:anypoint-mq-connector 
+title: Anypoint MQ Connector
+version: '2.x'
+nav:
+- modules/ROOT/nav.adoc
